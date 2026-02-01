@@ -2,7 +2,7 @@ export default function About() {
     return (
         <section id="about" className="relative z-0 min-h-screen flex justify-center items-center bg-white/3">
             <div className="bg-white/25 backdrop-blur-xl rounded-3xl py-16 px-20 max-w-screen-sm text-center max-sm:px-8 max-sm:py-10 max-sm:mx-4">
-                <h2 className="text-4xl mb-4 tracking-[0.1em] font-[family-name:var(--font-goldman)]">
+                <h2 className="text-4xl mb-4 tracking-widest font-[family-name:var(--font-goldman)]">
                     about
                 </h2>
                 <p className="text-base opacity-60 mb-10 leading-loose">

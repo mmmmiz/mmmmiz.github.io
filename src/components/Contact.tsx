@@ -4,7 +4,7 @@ export default function Contact() {
     return (
         <section id="contact" className="relative z-0 min-h-[60vh] flex justify-center items-center py-20 px-5">
             <div className="bg-white/25 backdrop-blur-xl rounded-3xl py-16 px-20 max-w-lg text-center max-sm:px-8 max-sm:py-10 max-sm:mx-4">
-                <h2 className="text-4xl mb-4 tracking-[0.1em] font-[family-name:var(--font-goldman)]">
+                <h2 className="text-4xl mb-4 tracking-widest font-[family-name:var(--font-goldman)]">
                     contact
                 </h2>
                 <p className="text-base opacity-60 mb-10 leading-loose">
@@ -15,7 +15,7 @@ export default function Contact() {
                     {/* メールリンク */}
                     <Link
                         href="mailto:mmmmmm64sa@gmail.com"
-                        className="flex items-center justify-center gap-3 py-4 px-8 bg-white/50 border border-black/10 rounded-xl no-underline text-gray-800 text-base font-[family-name:var(--font-goldman)] tracking-[0.05em] transition-all duration-300 hover:bg-white/80 hover:-translate-y-0.5 hover:shadow-lg max-sm:py-4 max-sm:px-6 max-sm:text-sm"
+                        className="flex items-center justify-center gap-3 py-4 px-8 bg-white/30 rounded-xl no-underline text-gray-800 text-base font-[family-name:var(--font-goldman)] tracking-wider transition-all duration-300 hover:bg-white/80 hover:-translate-y-0.5 hover:shadow-lg max-sm:py-4 max-sm:px-6 max-sm:text-sm"
                     >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@ export default function Contact() {
                         href="https://qiita.com/mizsaka"
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="flex items-center justify-center gap-3 py-4 px-8 bg-white/50 border border-black/10 rounded-xl no-underline text-gray-800 text-base font-[family-name:var(--font-goldman)] tracking-[0.05em] transition-all duration-300 hover:bg-white/80 hover:-translate-y-0.5 hover:shadow-lg max-sm:py-4 max-sm:px-6 max-sm:text-sm"
+                        className="flex items-center justify-center gap-3 py-4 px-8 bg-white/30 rounded-xl no-underline text-gray-800 text-base font-[family-name:var(--font-goldman)] tracking-wider transition-all duration-300 hover:bg-white/80 hover:-translate-y-0.5 hover:shadow-lg max-sm:py-4 max-sm:px-6 max-sm:text-sm"
                     >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"

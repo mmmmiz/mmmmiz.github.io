@@ -16,6 +16,9 @@ const notoSansJP = Noto_Sans_JP({
 export const metadata: Metadata = {
   title: "mizsaka.portfolio",
   description: "Portfolio of mizsaka",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
