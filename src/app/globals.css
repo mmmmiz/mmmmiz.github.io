@@ -7,7 +7,7 @@
 
 /* Base Styles */
 html {
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
   scroll-padding-top: 72px;
 }
 
