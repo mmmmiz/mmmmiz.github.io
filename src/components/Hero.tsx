@@ -9,7 +9,7 @@ export default function Hero() {
     };
 
     return (
-        <main className="relative z-0 min-h-screen flex flex-col justify-center items-center py-10 px-5">
+        <section className="relative z-0 min-h-screen flex flex-col justify-center items-center py-10 px-5">
             <h1 className="text-6xl md:text-8xl lg:text-9xl tracking-widest mb-5 font-[family-name:var(--font-goldman)]">
                 mizsaka.
             </h1>
@@ -25,6 +25,6 @@ export default function Hero() {
                     keyboard_double_arrow_down
                 </span>
             </button>
-        </main>
+        </section>
     );
 }
