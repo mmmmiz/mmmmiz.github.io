@@ -10,7 +10,7 @@ const works = [
     { slug: "castcell", title: "実績３", image: "/works/castcell_01.png" },
     { slug: "celldes", title: "実績４", image: "/works/celldes_01.png" },
     { slug: "cns", title: "実績５", image: "/works/cns.png" },
-    { slug: "dummy", title: "実績６", image: "/works/dummy.png" },
+    { slug: "dummy", title: "実績６", image: "/works/noimage.png" },
 ];
 
 export default function WorkDetail({

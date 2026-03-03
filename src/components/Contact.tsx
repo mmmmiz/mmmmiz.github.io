@@ -14,7 +14,7 @@ export default function Contact() {
                 <div className="flex flex-col gap-5">
                     {/* メールリンク */}
                     <Link
-                        href="mailto:mmmmmm64sa@gmail.com"
+                        href="mailto:mizuho.sakaguchi8@gmail.com"
                         className="flex items-center justify-center gap-3 py-4 px-8 bg-white/30 rounded-xl no-underline text-gray-800 text-base font-[family-name:var(--font-goldman)] tracking-wider transition-all duration-300 hover:bg-white/80 hover:-translate-y-0.5 hover:shadow-lg max-sm:py-4 max-sm:px-6 max-sm:text-sm"
                     >
                         <svg
@@ -30,7 +30,7 @@ export default function Contact() {
                             <rect x="2" y="4" width="20" height="16" rx="2" />
                             <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
                         </svg>
-                        mmmmmm64sa@gmail.com
+                        mizuho.sakaguchi8@gmail.com
                     </Link>
 
                     {/* Qiitaリンク */}
