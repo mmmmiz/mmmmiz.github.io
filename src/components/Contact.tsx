@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Contact() {
     return (
         <section id="contact" className="relative z-0 min-h-[60vh] flex justify-center items-center py-20 px-5">
-            <div className="bg-white/25 backdrop-blur-xl rounded-3xl py-16 px-20 max-w-lg text-center max-sm:px-8 max-sm:py-10 max-sm:mx-4">
+            <div className="rounded-2xl py-16 px-20 max-w-lg text-center max-sm:px-8 max-sm:py-10 max-sm:mx-4">
                 <h2 className="text-4xl mb-4 tracking-widest font-[family-name:var(--font-goldman)]">
                     contact
                 </h2>
